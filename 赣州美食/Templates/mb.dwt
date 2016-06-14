@@ -1,0 +1,168 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>徽州特色美食</title>
+<!-- TemplateEndEditable -->
+<link href="../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+body,td,th {
+	font-size: 12px;
+	color: #000000;
+}
+-->
+</style>
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="container">
+<div id="bann"><img src="../images/ban.gif" width="1100" height="311" /></div>
+<div id="nav">
+  <ul>
+    <li><a href="../index.html">网站首页</a></li>
+    <li><a href="../hzjs.html">徽州介绍</a></li>
+    <li><a href="../hcjs.html">徽菜食谱</a></li>
+    <li><a href="../tsxc.html">特色小吃</a></li>
+    <li><a href="../ysjk.html">饮食健康</a></li>
+    <li><a href="../lxwm.html">在线留言</a></li>
+  </ul>
+  </div>
+ <div id="main"><!-- TemplateBeginEditable name="EditRegion5" -->
+   <div id="left">
+     <div id="dl">
+       <p class="pdl">会员登陆</p>
+       <form id="form1" name="form1" method="post" action="">
+         <p class="p1">用户名：
+           <input name="textfield" type="text" size="10" />
+         </p>
+         <p>密&nbsp; 码：
+           <input name="textfield2" type="text" size="10" />
+         </p>
+         <p>
+           <input type="submit" name="Submit" value="登陆" />
+           &nbsp;&nbsp;&nbsp;&nbsp;
+           <input type="submit" name="Submit2" value="注册" />
+         </p>
+       </form>
+     </div>
+     <div id="cp">
+       <p><a href="#">徽菜展示</a></p>
+       <ul>
+         <li><a href="../cp1.html"> 火腿炖甲鱼</a></li>
+         <li><a href="../cp2.html">红烧果子狸</a></li>
+         <li><a href="#"> 腌鲜鳜鱼</a></li>
+         <li><a href="#">黄山炖鸽</a></li>
+         <li><a href="#">清蒸石鸡</a></li>
+         <li><a href="#">问政山笋</a></li>
+       </ul>
+     </div>
+     <div id="ss">
+       <form id="form2" name="form2" method="post" action="">
+         <img src="../images/xtb.png" width="19" height="19" /> 搜索
+         <input name="textfield3" type="text" size="10" />
+         <a href="http://www.baidu.com"><img src="../images/xtb1.png" width="26" height="17" border="0" /></a>
+       </form>
+     </div>
+   </div>
+ <!-- TemplateEndEditable --><!-- TemplateBeginEditable name="EditRegion3" -->
+  <div id="right">
+    <div id="zw">
+      <div id="bk"></div>
+      <div id="hzjj">徽州简介</div>
+      <div id="lr">
+        <p>徽州，简称徽，古称歙州，又名新安，为浙江省最早雏形唐末两浙道的组成部分，也是江南省分割后安徽之[徽]的命名来源。宋徽宗宣和三年（1121年），改歙州为徽州，府治今歙县，从此历宋元明清四代，统一府六县（歙县、黟县、休宁、婺源、绩溪、祁门），明清时徽商称雄中国商界500余年，有“无徽不成镇”“徽商遍天下”之说。徽文化也成为中外学者重点研究的中华三大地域文化之一。如今，江西省与安徽省共同占有徽州的原有范围，主体为黄山市、绩溪县（宣城市）与婺源县（上饶市）。
+          由于历史上的军事管制，婺源两度被强行划走，最终离开了母州；而绩溪由于打黄山牌而与太平县的交换，也离开了徽州后继的主体范围——黄山市。行政区划上的徽州已经破碎，甚至连名字也消失了，这不得不说是一种遗憾。1987年，国务院批准改徽州地区为黄山市。只因现实原因保留并命名了黄山市范围内的一个县级单位徽州区。黄山市下属的徽州区长期来一直为歙县地治，歙县徽城镇古为徽州府城，黄山市成立后，划歙县岩寺和潜口、呈坎、罗田、西南溪、洽舍、富溪、杨林以及郑村乡的瑶村置徽州区。 
+          传统意义上的徽州一般认为是一府六县，但由于徽州文化的影响及行政管辖，也曾纳入旌德等地，此外钱塘江上游的新安江流域、与徽州紧密相连的浙西金衢严等地亦深受徽州文化的影响，古代水路的便利及地理上的临近使得杭州成为徽商经营的主要地区。白居易《琵琶行》中「商人重利轻别离，前月浮梁买茶去」所述之浮梁，正是新安商人茶叶集散西去鄱阳之地，“浮梁歙州，万国来求”，作为唐代婺源和祁门置县之关键且风俗相同语言相近之地，浮梁亦是徽州文化区的一部分。 对于徽州本身，汤显祖其言曰：“一生痴绝处，无梦到徽州”。
+          
+          对于徽州的黄山，最为人知的莫过于徐霞客对黄山的描述：“薄海内外，无如徽之黄山，登黄山，天下无山，观止矣！”。徽州拥有两座国家级历史文化名城——歙县（1986年）及绩溪县（2007年），一座省级历史文化名城——黟县（1990年），同时因内战军事管制原因而被划入江西省的婺源县被誉为“中国最美的乡村”。</p>
+      </div>
+      <div id="gd"><a href="#"><img src="../images/more[1].gif" width="16" height="16" /> 详细介绍</a></div>
+      <div id="bk2"></div>
+    </div>
+  </div>
+  <!-- TemplateEndEditable --><!-- TemplateBeginEditable name="EditRegion4" -->
+  <div id="cszs">
+    <div align="left"><img src="../images/mszs.png" /></div>
+    <div id="tp">
+      <div id="tx">
+        <div id="demo" style="overflow:hidden;" align=center>
+          <table  border=0 align=center cellpadding=1 cellspacing=1 >
+            <tr>
+              <td valign=bottom id=marquePic1><table border='0' cellspacing='0'>
+                  <tr>
+                    <td align=center><a href='#'><img src="../images/2.png" border=0 /><br />
+                          <br />
+                    </a></td>
+                    <td align=center><a href='#'><img src=../images/3.png border=0 /><br />
+                          <br />
+                    </a></td>
+                    <td align=center><a 
+
+href='#'><img src=../images/4.png border=0 /><br />
+                          <br />
+                    </a></td>
+                    <td align=center><a href='#'><img src="../images/5.png" border=0 /><br />
+                          <br />
+                    </a></td>
+                    <td align=center><a href='#'><img src="../images/6.png" border=0 /><br />
+                          <br />
+                    </a></td>
+                    <td align=center><a href='#'><img src="../images/7.png" border=0 /><br />
+                          <br />
+                    </a></td>
+                    <td align=center><a href='#'><img src="../images/8.png" border=0 /><br />
+                          <br />
+                    </a></td>
+                  </tr>
+              </table></td>
+              <td id=marquePic2 valign=top></td>
+            </tr>
+          </table>
+        </div>
+        <script type="text/javascript">
+var speed=30
+marquePic2.innerHTML=marquePic1.innerHTML 
+function Marquee(){ 
+if(demo.scrollLeft>=marquePic1.scrollWidth){ 
+demo.scrollLeft=0 
+}else{ 
+demo.scrollLeft++ 
+} 
+} 
+var MyMar=setInterval(Marquee,speed) 
+demo.onmouseover=function() {clearInterval(MyMar)} 
+demo.onmouseout=function() {MyMar=setInterval(Marquee,speed)} 
+  </script>
+        <script type="text/javascript">
+var speed=30 
+marquePic2.innerHTML=marquePic1.innerHTML 
+function Marquee(){ 
+if(demo.scrollLeft>=marquePic1.scrollWidth){ 
+demo.scrollLeft=0 
+}else{ 
+demo.scrollLeft++ 
+} 
+} 
+var MyMar=setInterval(Marquee,speed) 
+demo.onmouseover=function() {clearInterval(MyMar)} 
+demo.onmouseout=function() {MyMar=setInterval(Marquee,speed)} 
+  </script>
+      </div>
+    </div>
+  </div>
+  <!-- TemplateEndEditable --></div>
+ <!-- TemplateBeginEditable name="EditRegion6" -->
+ <div id="bottom">
+   <ul>
+     <li><a href="http://www.meishichina.com/">中国徽菜网</a></li>
+     <li><a href="http://www.huangshan.gov.cn/">黄山市人民政府</a></li>
+     <li><a href="http://www.ahshx.gov.cn">歙县人民政府</a></li>
+   </ul>
+   <div id="bq">www.wangjing.com.cn All Right reserved.本网站所有文字图片资料，未经授权，不得复制或引用</div>
+ </div>
+ <!-- TemplateEndEditable --></div>
+</body>
+</html>
